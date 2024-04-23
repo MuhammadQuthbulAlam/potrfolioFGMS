@@ -4,7 +4,7 @@ $(document).ready(function () {
       if (this.scrollY > 20) {
         $(".navbar").addClass("sticky");
       } else {
-        $(".navbar").removeClass("sticky");
+        $(".navbar").removeClass("sticky");  
       }
   
       //  scroll-up button show/hide script  //
